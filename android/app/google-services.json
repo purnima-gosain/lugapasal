@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "283942040861",
+    "project_id": "luga-pasal",
+    "storage_bucket": "luga-pasal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283942040861:android:b8458d987ae133ad595df4",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283942040861-cula8nlbgm9csqg7fqpjecs43uvtlraq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHZMBylY7CUTqlayPsBOhE6BXBdGleSEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283942040861-cula8nlbgm9csqg7fqpjecs43uvtlraq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
